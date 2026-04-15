@@ -120,28 +120,7 @@ CLI tool with 18+ filters — edge detection, skewing, grayscale, B&W thresholdi
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ebrahem-Hassan-shabaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahem-Hassan-shabaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ebrahem-Hassan-shabaan&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
----
-
-## 🏅 Certifications & Training
-
-| Certificate | Issuer | Duration |
-|---|---|---|
-| ⚛️ React Frontend Web Developer | Digital Egypt Pioneers Initiative (DEPI) | 6 months |
-| 🌐 Web Design — Top Graduate 🏆 | National Telecommunications Institute (NTI) | 120 hrs |
-| 🔐 Cybersecurity Academy | National Telecommunications Institute (NTI) | 72 hrs |
-
----
 
 <div align="center">
 
