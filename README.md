@@ -24,7 +24,6 @@
 ```text
 🎓  CS Student @ Cairo University (2024–2028)
 💻  Front-End Dev who shipped a full E2E-tested React app to production
-🛡️  Cybersecurity & Web Design certified (NTI)
 👦  Taught technology to 170+ kids at Cairo University's Children Initiative
 🌍  Based in New Nozha, Cairo, Egypt
 ```
@@ -35,8 +34,7 @@
 
 ## ⚡ What I'm up to
 
-- 🔭 &nbsp;Currently building full-stack React apps with **Firebase** & **Node.js**
-- 🌱 &nbsp;Deepening my knowledge of **TypeScript**, **Express**, and **Docker**
+- 🔭 &nbsp;Currently building full-stack React apps 
 - 🧪 &nbsp;Passionate about **automated E2E testing** with Playwright + GitHub Actions CI/CD
 - 💬 &nbsp;Ask me about **React**, **C++ OOP**, or breaking your web app with automated tests
 - 🤝 &nbsp;Open to collaborate on open-source front-end or tooling projects
@@ -55,18 +53,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Back-End & Languages
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 #### 🔧 Tools & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
