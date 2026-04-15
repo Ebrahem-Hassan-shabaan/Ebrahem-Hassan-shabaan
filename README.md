@@ -2,17 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebrahem%20Hassan%20Shabaan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Front-End%20Developer&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/ebrahem-hassan1">
+<div align="center" >
+  <a href="https://linkedin.com/in/ebrahem-hassan1" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &ensp;
   <a href="mailto:ebrahem.hassan.shabaan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &ensp;
   <a href="https://biblios-depi.web.app">
     <img src="https://img.shields.io/badge/Live_Project-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ebrahem-Hassan-shabaan&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
+ 
 </div>
 
 <br/>
