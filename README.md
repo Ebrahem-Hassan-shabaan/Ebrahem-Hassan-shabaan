@@ -1,177 +1,160 @@
 <div align="center">
-
-# 👋 Hi, I'm Ebrahem Hassan Shabaan
-
-### 🚀 Software Engineer & Front-End Developer
-
-<p>
-  <a href="mailto:ebrahem.hassan.shabaan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ebrahem.hassan.shabaan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ebrahem-hassan1">
-    <img src="https://img.shields.io/badge/LinkedIn-ebrahem--hassan1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ebrahem-Hassan-shabaan">
-    <img src="https://img.shields.io/badge/GitHub-Ebrahem--Hassan--shabaan-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/📍_Location-New_Nozha%2C_Cairo%2C_Egypt-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/📞_Phone-01122729844-green?style=flat-square" />
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebrahem%20Hassan%20Shabaan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Front-End%20Developer&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
----
+<div align="center">
+  <a href="https://linkedin.com/in/ebrahem-hassan1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ebrahem.hassan.shabaan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://biblios-depi.web.app">
+    <img src="https://img.shields.io/badge/Live_Project-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ebrahem-Hassan-shabaan&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
+</div>
 
-## 🧑‍💻 About Me
-
-> I am a **Software Engineer and Front-End Developer** committed to delivering high-quality digital solutions. Having been a user before a developer, I understand what people expect from a website and turn that vision into reliable, tailored results.
-
-- ⚡ Quick to learn new technologies and able to grasp complex concepts
-- 🧪 Familiar with **unit testing**, **automated testing**, and **manual testing**
-- 🤝 Known for **teamwork, loyalty, and dedication**
-- 💡 Combining creativity with professionalism in every project
-- 💼 Hands-on freelancing experience
-
----
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td>🏛️ <b>Bachelor's degree in Computer Science</b><br/>Cairo University — Faculty of Computers and Artificial Intelligence<br/><i>Currently a second-year student</i></td>
-    <td align="right"><b>2024 – 2028</b></td>
-  </tr>
-</table>
+<br/>
 
 ---
 
-## 🛠️ Skills
+## 🙋‍♂️ Who am I?
+
+```text
+🎓  CS Student @ Cairo University (2024–2028)
+💻  Front-End Dev who shipped a full E2E-tested React app to production
+🛡️  Cybersecurity & Web Design certified (NTI)
+👦  Taught technology to 170+ kids at Cairo University's Children Initiative
+🌍  Based in New Nozha, Cairo, Egypt
+```
+
+> *"Having been a user before a developer — I build things people actually enjoy using."*
+
+---
+
+## ⚡ What I'm up to
+
+- 🔭 &nbsp;Currently building full-stack React apps with **Firebase** & **Node.js**
+- 🌱 &nbsp;Deepening my knowledge of **TypeScript**, **Express**, and **Docker**
+- 🧪 &nbsp;Passionate about **automated E2E testing** with Playwright + GitHub Actions CI/CD
+- 💬 &nbsp;Ask me about **React**, **C++ OOP**, or breaking your web app with automated tests
+- 🤝 &nbsp;Open to collaborate on open-source front-end or tooling projects
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-### Languages & Core
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 🌐 Front-End
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-6A0DAD?style=for-the-badge&logoColor=white)
-![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-FF4500?style=for-the-badge&logo=codeforces&logoColor=white)
-
-### Web & Styling
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Tools & Platforms
+#### ⚙️ Back-End & Languages
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+#### 🔧 Tools & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 📚 Biblios: Digital Library & E-Commerce Ecosystem — E2E Tested
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> 🔗 **Live Demo:** [biblios-depi.web.app](https://biblios-depi.web.app/) &nbsp;|&nbsp; 💾 **GitHub:** [Biblios-DEPI](https://github.com/Biblios-DEPI/Biblios-DEPI)
+### 📚 Biblios — Digital Library Platform
+[![Live](https://img.shields.io/badge/🔗_Live-biblios--depi.web.app-brightgreen?style=flat-square)](https://biblios-depi.web.app)
+[![Repo](https://img.shields.io/badge/💾_GitHub-Biblios--DEPI-181717?style=flat-square&logo=github)](https://github.com/Biblios-DEPI/Biblios-DEPI)
 
-- 🏗️ Architected a production-grade library platform using **React** and **Vite**, featuring a comprehensive profile system, wishlist, and cart
-- 🔄 Integrated **Context API** and **LocalStorage** to ensure seamless, persistent user experience
-- 🔥 Implemented **Google Firebase** for user authentication & hosting; used **Firestore** for real-time data storage
-- ✅ Designed and executed a **Manual QA test suite** covering authentication, catalog browsing, cart operations, and more
-- 🤖 Developed **5 automated E2E test suites (10 tests)** using **Playwright** with **GitHub Actions CI/CD** on every push
+Full-stack React e-commerce library with wishlist, cart, and user profiles. Backed by Firebase auth + Firestore. Ships with **5 Playwright E2E test suites** running on every push via GitHub Actions CI/CD.
 
-`React` `Vite` `Firebase` `Firestore` `Playwright` `GitHub Actions` `Context API`
+`React` `Firebase` `Playwright` `CI/CD` `Vite`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎲 Extensible Board Game Engine (C++)
+### 🎲 Board Game Engine (C++)
+[![OOP](https://img.shields.io/badge/Design-OOP_Templates-00599C?style=flat-square&logo=cplusplus)](https://github.com/Ebrahem-Hassan-shabaan)
 
-- 🧩 Developed a generic OOP framework using **C++ Templates** and **Abstract Classes** to decouple game logic from the UI
-- 🕹️ Built **8+ unique games** including SUS, Connect Four, and Numerical variants
-- 🤖 Integrated a **"Smart Player" AI** using **Backtracking** and **Min-Max algorithms**
+Generic C++ framework using Templates & Abstract Classes to build **8+ games** (SUS, Connect Four, Numerical). Includes a Smart Player AI with backtracking & Min-Max.
 
-`C++` `OOP` `Templates` `Abstract Classes` `AI` `Backtracking` `Min-Max`
+`C++` `OOP` `AI` `Min-Max` `Templates`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎵 Modular Audio Player Application (JUCE/C++)
+### 🎵 Audio Player App (JUCE/C++)
+[![Framework](https://img.shields.io/badge/Framework-JUCE-orange?style=flat-square)](https://github.com/Ebrahem-Hassan-shabaan)
 
-- 🎛️ Developed a C++ application using the **JUCE framework**, following **Separation of Concerns (SoC)**
-- ⚡ Implemented professional playback features: **speed adjustment sliders**, **position tracking**, and **A-B segment looping**
-- 🔊 Leveraged `AudioTransportSource` and `AudioFormatReader` for **WAV** and **MP3** streaming
+Professional C++ audio player with speed sliders, position tracking, and A-B segment looping. Follows Separation of Concerns; streams WAV & MP3 via JUCE audio classes.
 
-`C++` `JUCE` `OOP` `Audio Processing` `SoC`
+`C++` `JUCE` `Audio` `SoC`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🖼️ Advanced Image Processing Tool (C++)
+### 🖼️ Image Processing Tool (C++)
+[![Filters](https://img.shields.io/badge/Features-18%2B_Filters-blueviolet?style=flat-square)](https://github.com/Ebrahem-Hassan-shabaan)
 
-- 🎨 Built a comprehensive filter system supporting **18+ filters** including **Edge Detection** and **Vertical/Horizontal Skewing**
-- 🔬 Engineered custom functions for **RGB matrix transformations**, grayscale conversion, and black-and-white thresholding
-- 📁 Supports multiple file formats: **JPEG**, **PNG**, and **BMP**
+CLI tool with 18+ filters — edge detection, skewing, grayscale, B&W thresholding, and RGB matrix transforms. Supports JPEG, PNG, and BMP.
 
-`C++` `Image Processing` `Pixel Manipulation` `RGB` `OOP`
+`C++` `Image Processing` `RGB` `OOP`
 
----
-
-## 🏫 Professional Training
-
-### ⚛️ React Frontend Web Developer Trainee — Digital Egypt Pioneers Initiative (DEPI)
-`06/2025` · 6-Month Intensive Program
-
-- 🌐 Built interactive web apps using **React**, **HTML5**, **CSS**, **JavaScript**, **TypeScript**, **Node.js**, and **Express**
-- 🎨 Integrated **UI/UX principles**, **Bootstrap**, and **Docker** for containerization with Git/GitHub version control & unit testing
-- ✅ Successfully completed **3+ projects** while refining freelancing and project management skills
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Web Design Intern — Summer Training Program, National Telecommunication Institute (NTI)
-`07/2025 – 08/2025` · 4-Week Intensive (120 Hours)
+## 📊 GitHub Stats
 
-- 🖥️ Developed **6+ single-page websites** using HTML & CSS, and a **full responsive website** from a Figma design
-- ⚡ Created **4+ interactive web applications** including a **web quiz game** as the final project
-- 🏆 Graduated as one of the **Top Graduates** of the program
-- 💪 Deepened expertise in **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS** with a mobile-first approach
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ebrahem-Hassan-shabaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahem-Hassan-shabaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
 
----
-
-### 🔐 Cybersecurity Academy Graduate — National Telecommunications Institute (NTI)
-`08/2025 – 09/2025` · Undergraduate Level
-
-- 🛡️ Completed **60 hours of intensive technical training** in cybersecurity under the Ministry of Communications and Information Technology
-- 💼 Completed **12 hours of specialized freelance training** for real-world security consulting
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ebrahem-Hassan-shabaan&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
 ---
 
-## 🌟 Extra-Curricular Activities
+## 🏅 Certifications & Training
 
-### 🧒 Children's University Initiative — Cairo University
-`01/2025 – 02/2025`
-
-- 👨‍🏫 **ICT Instructor** — Taught coding & technology concepts to **170+ children** over three interactive sessions
-- 🗂️ **Organizer** — Planned and managed **5+ sessions**, handling setup, scheduling, and engagement
+| Certificate | Issuer | Duration |
+|---|---|---|
+| ⚛️ React Frontend Web Developer | Digital Egypt Pioneers Initiative (DEPI) | 6 months |
+| 🌐 Web Design — Top Graduate 🏆 | National Telecommunications Institute (NTI) | 120 hrs |
+| 🔐 Cybersecurity Academy | National Telecommunications Institute (NTI) | 72 hrs |
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📬 Reach me
 
-![Ebrahem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebrahem-Hassan-shabaan&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahem-Hassan-shabaan&layout=compact&theme=tokyonight&hide_border=true)
+[![Email](https://img.shields.io/badge/ebrahem.hassan.shabaan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebrahem.hassan.shabaan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/ebrahem--hassan1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahem-hassan1)
 
----
-
-*"Combining creativity with professionalism in every project."* 💼✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
