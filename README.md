@@ -29,7 +29,7 @@
 
 </div>
 
-I am a **Computer Science student at Cairo University (2024–2028)** who enjoys turning ideas into practical, user-friendly products. My work spans **front-end development, .NET back-end systems, C++ applications, and automated testing**.
+I am a **Computer Science student at Cairo University (2024–2028)** who enjoys turning ideas into practical, user-friendly products. My work spans **front-end development, .NET back-end systems, system integration, C++ applications, and automated testing**.
 
 <div align="center">
 
@@ -37,6 +37,7 @@ I am a **Computer Science student at Cairo University (2024–2028)** who enjoys
 | --- | --- |
 | 🎓 Education | Computer Science at Cairo University |
 | 💻 Development | React, TypeScript, .NET, C#, C++, and JUCE |
+| 🔗 Integration | WSO2, API integration, and connected systems |
 | 🧪 Quality | Playwright E2E testing and GitHub Actions CI/CD |
 | 🌍 Community | Taught technology to 170+ children through Cairo University's Children Initiative |
 
@@ -52,12 +53,13 @@ I am a **Computer Science student at Cairo University (2024–2028)** who enjoys
 
 | 🚀 Building | 🧪 Improving | 🤝 Open to |
 | --- | --- | --- |
-| Full-stack applications with React and .NET | Reliable E2E workflows with Playwright and GitHub Actions | Open-source front-end, back-end, and developer-tool projects |
-| Space Manager, a coworking management platform | Clean architecture, reusable components, and user-focused UI | Collaborating on practical products and learning-focused teams |
+| Full-stack applications with React and .NET | Reliable E2E workflows with Playwright and GitHub Actions | Open-source front-end, back-end, and integration projects |
+| Space Manager, a coworking management platform | Clean architecture, API integration, and user-focused UI | Collaborating on practical products and learning-focused teams |
 
 </div>
 
 - 🔭 Exploring full-stack development across the React and .NET ecosystems
+- 🔗 Learning and applying **system integration** concepts with **WSO2** and API-driven architectures
 - 🏢 Developing **Space Manager** with reservation, visitor-pass, and facility-ticket workflows
 - 🧪 Building dependable release pipelines with automated testing and CI/CD
 - 💬 Ask me about React, .NET, C++ OOP, Playwright, or GitHub Actions
@@ -77,6 +79,7 @@ I am a **Computer Science student at Cairo University (2024–2028)** who enjoys
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![WSO2](https://img.shields.io/badge/WSO2-FF7300?style=for-the-badge&logo=wso2&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
