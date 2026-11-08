@@ -55,7 +55,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
+#### ⚙️ Back-End
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### 🔧 Tools & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -72,6 +74,16 @@
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🏢 Space Manager — Coworking Management Platform
+[![Repo](https://img.shields.io/badge/💾_GitHub-Space--Manager-181717?style=flat-square&logo=github)](https://github.com/Ebrahem-Hassan-shabaan/Space-Manager)
+
+Full-stack coworking space management platform for hot-desk reservations, visitor passes, and facility maintenance tickets.
+
+`.NET` `C#` `HTML` `Full-Stack`
+
+</td>
 <td width="50%" valign="top">
 
 ### 📚 Biblios — Digital Library Platform
