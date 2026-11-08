@@ -23,23 +23,44 @@
 
 ## 🙋‍♂️ Who am I?
 
-```text
-🎓  CS Student @ Cairo University (2024–2028)
-💻  Front-End Dev who shipped a full E2E-tested React app to production
-👦  Taught technology to 170+ kids at Cairo University's Children Initiative
-🌍  Based in New Nozha, Cairo, Egypt
-```
+<div align="center">
 
-> *"Having been a user before a developer — I build things people actually enjoy using."*
+### Software Engineer in Progress · Cairo University CS Student
+
+</div>
+
+I am a **Computer Science student at Cairo University (2024–2028)** who enjoys turning ideas into practical, user-friendly products. My work spans **front-end development, .NET back-end systems, C++ applications, and automated testing**.
+
+<div align="center">
+
+| Focus | Highlights |
+| --- | --- |
+| 🎓 Education | Computer Science at Cairo University |
+| 💻 Development | React, TypeScript, .NET, C#, C++, and JUCE |
+| 🧪 Quality | Playwright E2E testing and GitHub Actions CI/CD |
+| 🌍 Community | Taught technology to 170+ children through Cairo University's Children Initiative |
+
+</div>
+
+> *I build with the mindset of a user first: clear experiences, reliable systems, and software people enjoy using.*
 
 ---
 
 ## ⚡ What I'm up to
 
-- 🔭 &nbsp;Currently building full-stack React apps 
-- 🧪 &nbsp;Passionate about **automated E2E testing** with Playwright + GitHub Actions CI/CD
-- 💬 &nbsp;Ask me about **React**, **C++ OOP**, or breaking your web app with automated tests
-- 🤝 &nbsp;Open to collaborate on open-source front-end or tooling projects
+<div align="center">
+
+| 🚀 Building | 🧪 Improving | 🤝 Open to |
+| --- | --- | --- |
+| Full-stack applications with React and .NET | Reliable E2E workflows with Playwright and GitHub Actions | Open-source front-end, back-end, and developer-tool projects |
+| Space Manager, a coworking management platform | Clean architecture, reusable components, and user-focused UI | Collaborating on practical products and learning-focused teams |
+
+</div>
+
+- 🔭 Exploring full-stack development across the React and .NET ecosystems
+- 🏢 Developing **Space Manager** with reservation, visitor-pass, and facility-ticket workflows
+- 🧪 Building dependable release pipelines with automated testing and CI/CD
+- 💬 Ask me about React, .NET, C++ OOP, Playwright, or GitHub Actions
 
 ---
 
