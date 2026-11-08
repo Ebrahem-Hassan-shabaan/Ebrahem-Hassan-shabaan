@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebrahem%20Hassan%20Shabaan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebrahem%20Hassan%20Shabaan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer" width="100%"/>
 </div>
 
 <div align="center" >
@@ -47,19 +47,15 @@
 
 <div align="center">
 
-#### 🌐 Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⚙️ Back-End
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-#### 🔧 Tools & DevOps
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -67,7 +63,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -90,49 +85,58 @@ Full-stack coworking space management platform for hot-desk reservations, visito
 [![Live](https://img.shields.io/badge/🔗_Live-biblios--depi.web.app-brightgreen?style=flat-square)](https://biblios-depi.web.app)
 [![Repo](https://img.shields.io/badge/💾_GitHub-Biblios--DEPI-181717?style=flat-square&logo=github)](https://github.com/Biblios-DEPI/Biblios-DEPI)
 
-Full-stack React e-commerce library with wishlist, cart, and user profiles. Backed by Firebase auth + Firestore. Ships with **5 Playwright E2E test suites** running on every push via GitHub Actions CI/CD.
+Full-stack React e-commerce library with wishlist, cart, and user profiles. Backed by Firebase auth + Firestore, with **5 Playwright E2E test suites** running through GitHub Actions CI/CD.
 
 `React` `Firebase` `Playwright` `CI/CD` `Vite`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎲 Board Game Engine (C++)
-[![OOP](https://img.shields.io/badge/Design-OOP_Templates-00599C?style=flat-square&logo=cplusplus)](https://github.com/Ebrahem-Hassan-shabaan)
-
-Generic C++ framework using Templates & Abstract Classes to build **8+ games** (SUS, Connect Four, Numerical). Includes a Smart Player AI with backtracking & Min-Max.
-
-`C++` `OOP` `AI` `Min-Max` `Templates`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 Audio Player App (JUCE/C++)
-[![Framework](https://img.shields.io/badge/Framework-JUCE-orange?style=flat-square)](https://github.com/Ebrahem-Hassan-shabaan)
+### 🎲 Board Game Engine (C++)
+[![OOP](https://img.shields.io/badge/Design-OOP_Templates-00599C?style=flat-square&logo=cplusplus)](https://github.com/Ebrahem-Hassan-shabaan/Extensible-Board-Game-Engine)
 
-Professional C++ audio player with speed sliders, position tracking, and A-B segment looping. Follows Separation of Concerns; streams WAV & MP3 via JUCE audio classes.
+Generic C++ framework using Templates and Abstract Classes to build **8+ games**, with Smart Player AI powered by backtracking and Min-Max.
 
-`C++` `JUCE` `Audio` `SoC`
+`C++` `OOP` `AI` `Min-Max` `Templates`
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ Image Processing Tool (C++)
-[![Filters](https://img.shields.io/badge/Features-18%2B_Filters-blueviolet?style=flat-square)](https://github.com/Ebrahem-Hassan-shabaan)
+### 🎵 Audio Player App (JUCE/C++)
+[![Framework](https://img.shields.io/badge/Framework-JUCE-orange?style=flat-square)](https://github.com/Ebrahem-Hassan-shabaan/Audio-Player)
 
-CLI tool with 18+ filters — edge detection, skewing, grayscale, B&W thresholding, and RGB matrix transforms. Supports JPEG, PNG, and BMP.
+Professional C++ audio player with two independent decks, playlists, waveform displays, and real-time audio mixing.
+
+`C++` `JUCE` `Audio` `SoC`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ Image Processing Tool (C++)
+[![Filters](https://img.shields.io/badge/Features-18%2B_Filters-blueviolet?style=flat-square)](https://github.com/Ebrahem-Hassan-shabaan/Image-Processor)
+
+CLI tool with 18+ filters for edge detection, skewing, grayscale, thresholding, and RGB matrix transforms. Supports JPEG, PNG, and BMP.
 
 `C++` `Image Processing` `RGB` `OOP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 More projects
+
+Explore the rest of my work, experiments, and learning projects on GitHub.
+
+[![View GitHub Profile](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ebrahem-Hassan-shabaan?tab=repositories)
 
 </td>
 </tr>
 </table>
 
 ---
-
-
 
 <div align="center">
 
